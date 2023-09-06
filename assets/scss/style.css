@@ -1,0 +1,64 @@
+body {
+  background-color: #1e1d2b;
+}
+
+h1 {
+  color: orange;
+}
+
+p {
+  color: white;
+}
+
+.navbar-brand {
+  color: orange;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.bg-primary {
+  --bs-primary-rgb: 255,128,0,0.5;
+}
+
+/*Home*/
+.btn-primary {
+  --bs-btn-bg: #ff702a;
+  --bs-btn-border-color: #ff702a;
+  --bs-btn-hover-bg: ;
+  --bs-btn-hover-border-color: ;
+}
+
+.col .home-txt {
+  width: 100%;
+  padding-top: 35%;
+  flex-wrap: wrap;
+  text-align: left;
+  justify-content: left;
+  align-items: baseline;
+  align-content: baseline;
+}
+
+.col .home-txt h1 {
+  font-size: 50px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.col .home-txt p {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.col .img-anvorguesa {
+  width: 100%;
+  padding: 5%;
+}
+
+/*About*//*# sourceMappingURL=style.css.map */
